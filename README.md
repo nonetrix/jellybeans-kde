@@ -1,4 +1,4 @@
-# jellybeans-kde
+# jellybeans-kde 🫘
 Jellybeans color theme for KDE 🫘
 
 Jellybeans color theme for KDE
